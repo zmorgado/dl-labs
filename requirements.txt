@@ -1,0 +1,12 @@
+h5py
+imageio
+ipython
+matplotlib
+numpy
+pandas
+pillow
+scikit-learn
+seaborn
+tensorflow
+tensorflow-docs
+wandb
