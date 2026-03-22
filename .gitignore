@@ -3,3 +3,4 @@
 __pycache__/
 .DS_Store
 wandb/
+datasets/open-images-bus-trucks
